@@ -1,5 +1,26 @@
 # IMDB Reviews Sentiment Analysis
 
+## Table of Contents
+
+- [IMDB Reviews Sentiment Analysis](#imdb-reviews-sentiment-analysis)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Live Backend Endpoint](#live-backend-endpoint)
+- [Machine Learning](#machine-learning)
+- [Tech Stack](#tech-stack)
+- [React Native UI](#react-native-ui)
+- [FastAPI Backend](#fastapi-backend)
+- [How to Run Locally](#how-to-run-locally)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Downloadable APK](#downloadable-apk)
+- [Sample API Request](#sample-api-request)
+- [Media](#media)
+  - [Images](#images)
+  - [Video](#video)
+- [Future Improvements](#future-improvements)
+- [Authors](#authors)
+
 This repository contains a complete pipeline for sentiment analysis of IMDB reviews using an LSTM model. The project includes the model, API, frontend application, and a video demonstration.
 
 ## Project Structure
@@ -105,9 +126,12 @@ The API will return a sentiment prediction, such as:
 
 ### Images
 
-- **Accuracy**: ![Accuracy](Images/accuracy.png)
-- **Confusion Matrix**: ![Confusion Matrix](Images/confusion_matrix.png)
-- **Example Usage**: ![Example Usage](Images/example_usage.png)
+- **Accuracy**:
+  ![Accuracy](Images/accuracy.png)
+- **Confusion Matrix**:
+  ![Confusion Matrix](Images/confusion_matrix.png)
+- **Example Usage**:
+  ![Example Usage](Images/example_usage.png)
 
 ### Video
 
