@@ -127,10 +127,13 @@ The API will return a sentiment prediction, such as:
 ### Images
 
 - **Accuracy**:
+  
   ![Accuracy](Images/accuracy.png)
 - **Confusion Matrix**:
+  
   ![Confusion Matrix](Images/confusion_matrix.png)
 - **Example Usage**:
+  
   ![Example Usage](Images/example_usage.png)
 
 ### Video
