@@ -151,6 +151,6 @@ A detailed video explanation of the project can be viewed here:
 
 ## Authors
 
-> Built with by [Vivek Poonia, Swetaly Das, Ravita]  
+> Built by [Vivek Poonia, Swetaly Das, Ravita]  
 > Contact: [vivekpoonia.wx@gmail.com]  
 > NIT Surat | Electronics & Communication Engineering
