@@ -13,7 +13,7 @@ This repository contains a complete pipeline for sentiment analysis of IMDB revi
 - **Frontend Application**: A React Native-based frontend application for interacting with the sentiment analysis API. Key files include:
   - [`MainLayout.tsx`](APP_Frontend/components/MainLayout.tsx), [`SentimentBadge.tsx`](APP_Frontend/components/SentimentBadge.tsx), [`SentimentIndicator.tsx`](APP_Frontend/components/SentimentIndicator.tsx): Core components.
   - [`sentimentAnalysis.ts`](APP_Frontend/utils/sentimentAnalysis.ts): Utility functions for API interaction.
-- **Video**: A demonstration video shocasing the project.
+- **Video**: A demonstration video showcasing the project.
 
 ## Features
 
@@ -100,6 +100,20 @@ The API will return a sentiment prediction, such as:
   "sentiment": "positive"
 }
 ```
+
+## Media
+
+### Images
+
+- **Accuracy**: ![Accuracy](Images/accuracy.png)
+- **Confusion Matrix**: ![Confusion Matrix](Images/confusion_matrix.png)
+- **Example Usage**: ![Example Usage](Images/example_usage.png)
+
+### Video
+
+A detailed video explanation of the project can be viewed here:
+
+[Watch Video](video/video_explanation.mp4)
 
 ## Future Improvements
 
