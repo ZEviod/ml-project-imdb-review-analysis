@@ -77,6 +77,12 @@ The backend API is built using FastAPI, a modern web framework for building APIs
    npx expo start
    ```
 
+## Downloadable APK
+
+The APK for the React Native frontend application can be downloaded from the following link:
+
+[Download APK](https://expo.dev/accounts/jay-shah/projects/ml-expo-nativewind/builds/7def31c5-291a-4485-b50e-9af5cecc28ad)
+
 ## Sample API Request
 
 To test the API, you can send a POST request to the `/predict` endpoint with the following JSON payload:
